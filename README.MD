@@ -1,0 +1,1 @@
+A kush rifle for TTT on Garry's Mod that when shot with the victim hears a specific song and has distorted vision for a specified amount of time.
