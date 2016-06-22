@@ -1,0 +1,6 @@
+{
+  "name": "Kushrifle",
+  "tagline": "A Garry's Mod TTT weapon for traitors.",
+  "body": "# Kush Rifle for TTT\r\n\r\n\r\n## What does it do?\r\nWhen a player gets hit with the weapon they hear a specific song and has distorted vision for a specified amount of time.\r\nYou can change the sound location and/or the song its self on line 123. Make sure you have FastDL set up or else the song will not play when a player is shot with it.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
